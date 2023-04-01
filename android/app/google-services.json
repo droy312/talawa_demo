@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960994349434",
+    "project_id": "talawa-demo-68a5c",
+    "storage_bucket": "talawa-demo-68a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960994349434:android:5a4c47b623f243e901c6c3",
+        "android_client_info": {
+          "package_name": "com.example.talawa_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960994349434-vckls5ano2q9ork253cn19h0mgogs0be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApYg45JQmFQ3f078E26urnXSL09xEmDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960994349434-vckls5ano2q9ork253cn19h0mgogs0be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
